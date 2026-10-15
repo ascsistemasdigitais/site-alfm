@@ -79,7 +79,7 @@ const profiles = {
     Daniel: {
         name: 'Daniel Alves Ferreira',
         role: 'Advogado - Socio Fundador',
-        photo: 'daniel.png',
+        photo: 'Foto em breve',
         bio: `
             <p><strong>Áreas de atuação:</strong> Responsável pela gestão da área societária, em especial em Mercado de Capitais e Governança Corporativa.</p>
             <p><strong>Perfil:</strong> abordagem prática e estratégica para questões que exigem rapidez, precisão técnica e atenção aos riscos do negócio.</p>
@@ -88,7 +88,7 @@ const profiles = {
     Paulo: {
         name: 'Paulo Roberto B. Brandão',
         role: 'Advogado',
-        photo: 'Paulo.png',
+        photo: 'Foto em breve',
         bio: `
             <p><strong>Áreas de atuação:</strong> compliance, prevenção de riscos e suporte em operações complexas.</p>
             <p><strong>Perfil:</strong> orientação jurídica voltada à segurança contratual, mitigação de conflitos e fortalecimento da governança corporativa.</p>

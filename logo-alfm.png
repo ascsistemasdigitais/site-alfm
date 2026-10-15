@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7e7a3"/>
+      <stop offset="30%" stop-color="#d4af37"/>
+      <stop offset="70%" stop-color="#b8860b"/>
+      <stop offset="100%" stop-color="#f7e7a3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Símbolo -->
+  <g transform="translate(40,35)">
+    <polygon points="0,110 35,110 55,65 20,65"
+             fill="url(#gold)"/>
+
+    <polygon points="60,0 95,0 155,110 120,110"
+             fill="url(#gold)"/>
+
+    <polygon points="120,20 155,20 215,130 180,130"
+             fill="url(#gold)"/>
+
+    <polygon points="180,0 215,0 275,110 240,110"
+             fill="url(#gold)"/>
+  </g>
+
+  <!-- Texto -->
+  <text x="360" y="85"
+        font-family="Times New Roman, serif"
+        font-size="70"
+        fill="#2f2f2f">
+    Alves Ferreira &amp; Mesquita
+  </text>
+
+  <text x="365" y="155"
+        font-family="Arial, sans-serif"
+        font-size="38"
+        letter-spacing="3"
+        fill="#444">
+    SOCIEDADE DE ADVOGADOS
+  </text>
+
+  <line x1="20" y1="200" x2="1180" y2="200"
+        stroke="#d4af37"
+        stroke-width="2"/>
+</svg>

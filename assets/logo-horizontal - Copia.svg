@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" role="img" aria-labelledby="title desc">
+  <title id="title">Alves Ferreira &amp; Mesquita Sociedade de Advogados</title>
+  <desc id="desc">Logotipo horizontal com monograma dourado e texto em fundo azul profundo.</desc>
+  <rect width="900" height="160" fill="#062f3f"/>
+  <g fill="#b88967">
+    <path d="M43 99h22l11-30H55z"/>
+    <path d="M92 105h23L82 54H59z"/>
+    <path d="M128 105h23L118 54H95z"/>
+    <path d="M165 105h23L155 54h-23z"/>
+  </g>
+  <rect x="225" y="41" width="3" height="78" fill="#b88967" opacity=".75"/>
+  <text x="265" y="77" fill="#b88967" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">
+    Alves Ferreira &amp; Mesquita
+  </text>
+  <text x="268" y="105" fill="#d6e1e4" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2.8">
+    SOCIEDADE DE ADVOGADOS
+  </text>
+</svg>

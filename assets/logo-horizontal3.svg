@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Monograma Alves Ferreira &amp; Mesquita</title>
+  <desc id="desc">Monograma dourado do escritório Alves Ferreira &amp; Mesquita.</desc>
+  <rect width="320" height="320" rx="160" fill="#ffffff"/>
+  <g fill="#b88967">
+    <path d="M60 194h40l18-48H78z"/>
+    <path d="M138 204h42L124 88H82z"/>
+    <path d="M198 204h42L184 88h-42z"/>
+    <path d="M258 204h42L244 88h-42z"/>
+  </g>
+  <path d="M92 232h151" stroke="#b88967" stroke-width="2"/>
+  <text x="160" y="252" fill="#a77959" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700">
+    Alves Ferreira &amp; Mesquita
+  </text>
+  <text x="160" y="269" fill="#c2a18a" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="1.2">
+    SOCIEDADE DE ADVOGADOS
+  </text>
+</svg>

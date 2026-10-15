@@ -88,7 +88,7 @@ const profiles = {
     Paulo: {
         name: 'Paulo Roberto B. Brandão',
         role: 'Advogado',
-        photo: 'paulo.png',
+        photo: 'Paulo.png',
         bio: `
             <p><strong>Áreas de atuação:</strong> compliance, prevenção de riscos e suporte em operações complexas.</p>
             <p><strong>Perfil:</strong> orientação jurídica voltada à segurança contratual, mitigação de conflitos e fortalecimento da governança corporativa.</p>

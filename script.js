@@ -67,15 +67,6 @@ document.querySelectorAll('.animate-on-scroll').forEach(el => {
 // PERFIS DOS ADVOGADOS
 // =====================================
 const profiles = {
-    alexandre: {
-        name: 'Alexandre Costa',
-        role: 'Engenheiro da Computação',
-        photo: 'alexandre.png',
-        bio: `
-            <p><strong>Perfil:</strong> Profissional com formação em engenharia da computação, apoiando a estrutura digital, tecnológica e estratégica do escritório.</p>
-            <p><strong>Contribuição:</strong> atua na integração entre tecnologia, processos e soluções inovadoras para fortalecer a operação e a experiência do cliente.</p>
-        `
-    },
     Daniel: {
         name: 'Daniel Alves Ferreira',
         role: 'Advogado - Socio Fundador',
@@ -288,7 +279,7 @@ form?.addEventListener('submit', async (event) => {
     event.preventDefault();
 
     try {
-        await fetch('https://formsubmit.co/ajax/alexandre.costa@alfm.adv.br', {
+        await fetch('https://formsubmit.co/ajax/alexandresilva81@hotmail.com', {
             method: 'POST',
             body: new FormData(form)
         });

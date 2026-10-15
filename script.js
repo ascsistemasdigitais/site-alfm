@@ -79,7 +79,7 @@ const profiles = {
     Daniel: {
         name: 'Daniel Alves Ferreira',
         role: 'Advogado - Socio Fundador',
-        photo: 'Daniel.png',
+        photo: 'daniel.png',
         bio: `
             <p><strong>Áreas de atuação:</strong> Responsável pela gestão da área societária, em especial em Mercado de Capitais e Governança Corporativa.</p>
             <p><strong>Perfil:</strong> abordagem prática e estratégica para questões que exigem rapidez, precisão técnica e atenção aos riscos do negócio.</p>

@@ -67,6 +67,15 @@ document.querySelectorAll('.animate-on-scroll').forEach(el => {
 // PERFIS DOS ADVOGADOS
 // =====================================
 const profiles = {
+    alexandre: {
+        name: 'Alexandre Costa',
+        role: 'Engenheiro da Computação',
+        photo: 'Foto em breve',
+        bio: `
+            <p><strong>Perfil:</strong> Profissional com formação em engenharia da computação, apoiando a estrutura digital, tecnológica e estratégica do escritório.</p>
+            <p><strong>Contribuição:</strong> atua na integração entre tecnologia, processos e soluções inovadoras para fortalecer a operação e a experiência do cliente.</p>
+        `
+    },
     Daniel: {
         name: 'Daniel Alves Ferreira',
         role: 'Advogado - Socio Fundador',
